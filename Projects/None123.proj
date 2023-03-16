@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <Project>
   <ID>2b7ca39f-fd3c-4327-b72b-e36094d72352</ID>
   <Name>None123</Name>
@@ -71,5 +72,29 @@
       </Statement>
     </StatementCategory>
   </StatementCategories>
+  <ProjectTestSequenceModules>
+  <ProjectTestSequenceModule>
+      <ID>8b6fc325-3c5e-4f24-bc47-aff1cceba89b</ID>
+      <ProjectID>2b7ca39f-fd3c-4327-b72b-e36094d72352</ProjectID>
+      <ModuleID>2ebf20e1-2814-4691-908d-d4fa26cd6920</ModuleID>
+      <IncludeInSequence>True</IncludeInSequence>
+      <IsDeleted>False</IsDeleted>
+      <Type>1</Type>
+      <TimeStamp>2022-12-16 10:27:45.000</TimeStamp>
+      <ModuleGroupOrder>2</ModuleGroupOrder>
+      <ModuleOrder>1</ModuleOrder>
+    </ProjectTestSequenceModule>
+    <ProjectTestSequenceModule>
+      <ID>8b6fc325-3c5e-4f24-bc47-aff1cceba89b</ID>
+      <ProjectID>2b7ca39f-fd3c-4327-b72b-e36094d72352</ProjectID>
+      <ModuleID>7e547678-ec02-4716-abab-81993a863be6</ModuleID>
+      <IncludeInSequence>True</IncludeInSequence>
+      <IsDeleted>False</IsDeleted>
+      <Type>1</Type>
+      <TimeStamp>2022-12-16 10:27:45.000</TimeStamp>
+      <ModuleGroupOrder>2</ModuleGroupOrder>
+      <ModuleOrder>2</ModuleOrder>
+    </ProjectTestSequenceModule>
+  </ProjectTestSequenceModules>
   <ModuleGroupExecutionOrders />
 </Project>
