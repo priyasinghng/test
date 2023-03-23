@@ -1,0 +1,276 @@
+<Project>
+  <ID>b024013d-2c79-428f-b25d-37a7292375ab</ID>
+  <Name>Demo Lava ni</Name>
+  <Description>b24f16b: ggf |Git|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Demo</Description>
+  <DesktopVersion>2.0.60.0</DesktopVersion>
+  <IVIS ID="5da21cf4-4dc3-4309-bb4e-8faeefe9bba4">
+    <Manufacturer>None</Manufacturer>
+    <RadioModel>Generic ADB</RadioModel>
+    <VehicleModel>Generic</VehicleModel>
+    <ModelYear />
+    <SoftwareVersion>Generic</SoftwareVersion>
+    <DriverDllName>IVIS_GenericADB</DriverDllName>
+    <DriverClassName>IVIS_GenericADB.Generic</DriverClassName>
+  </IVIS>
+  <Location>India</Location>
+  <TestRefID />
+  <HardwareRefID />
+  <LastEditTime>2022-12-20T10:59:57</LastEditTime>
+  <UserName>Praveen Sharma</UserName>
+  <Devices />
+  <SMSAlertInformation>
+    <SMSLimit>False</SMSLimit>
+    <SMSOnAlertElement>False</SMSOnAlertElement>
+    <SMSOnFail>False</SMSOnFail>
+    <NoSMS>True</NoSMS>
+    <SMSLimitPerHour>5</SMSLimitPerHour>
+    <SMSReceiver />
+  </SMSAlertInformation>
+  <ADBConfigurationInformation>
+    <ModelNumber>Generic_ADB</ModelNumber>
+    <DisplayName>Generic ADB Device</DisplayName>
+    <IPAddress />
+    <DisplayWidthInPixel>1080</DisplayWidthInPixel>
+    <DisplayHeightInPixel>1920</DisplayHeightInPixel>
+    <DisplayWidthInMillimetre>160</DisplayWidthInMillimetre>
+    <DisplayHeightInMillimetre>284</DisplayHeightInMillimetre>
+  </ADBConfigurationInformation>
+  <VideoConfigurationInformation>
+    <PreTriggerLength>60</PreTriggerLength>
+    <PostTriggerLength>10</PostTriggerLength>
+    <VideoResolution>3</VideoResolution>
+    <FrameRate>20</FrameRate>
+    <MaxVideoRecord>50</MaxVideoRecord>
+  </VideoConfigurationInformation>
+  <StatementCategories />
+  <ModuleGroupExecutionOrders />
+  <ProjectTestSequenceModule>
+    <ProjectTestSequenceModule>
+      <ProjectTestSequenceModule>
+        <ID>2846d994-f5df-403d-90f4-390f9697c7ca</ID>
+        <ProjectID>b024013d-2c79-428f-b25d-37a7292375ab</ProjectID>
+        <ModuleID>6e6d224f-763b-482c-b760-b4654a6f5266</ModuleID>
+        <IncludeInSequence>False</IncludeInSequence>
+        <IsDeleted>False</IsDeleted>
+        <Type>1</Type>
+        <TimeStamp>2022-10-11 09:52:12.000</TimeStamp>
+        <ModuleGroupOrder>11</ModuleGroupOrder>
+        <ModuleOrder>1</ModuleOrder>
+      </ProjectTestSequenceModule>
+      <ProjectTestSequenceModule>
+        <ID>4f6a0ee3-920c-4d55-ba43-018ae6a79f8e</ID>
+        <ProjectID>b024013d-2c79-428f-b25d-37a7292375ab</ProjectID>
+        <ModuleID>af7133e6-d7c2-4238-8f9a-bd1d5357ad26</ModuleID>
+        <IncludeInSequence>False</IncludeInSequence>
+        <IsDeleted>False</IsDeleted>
+        <Type>1</Type>
+        <TimeStamp>2022-10-11 10:37:07.000</TimeStamp>
+        <ModuleGroupOrder>11</ModuleGroupOrder>
+        <ModuleOrder>2</ModuleOrder>
+      </ProjectTestSequenceModule>
+      <ProjectTestSequenceModule>
+        <ID>c47c18c5-765a-44f9-a513-5f15c1014b7d</ID>
+        <ProjectID>b024013d-2c79-428f-b25d-37a7292375ab</ProjectID>
+        <ModuleID>7fbd9af8-2382-43e5-83f6-0c4274077d55</ModuleID>
+        <IncludeInSequence>False</IncludeInSequence>
+        <IsDeleted>False</IsDeleted>
+        <Type>1</Type>
+        <TimeStamp>2022-10-11 11:03:14.000</TimeStamp>
+        <ModuleGroupOrder>11</ModuleGroupOrder>
+        <ModuleOrder>4</ModuleOrder>
+      </ProjectTestSequenceModule>
+      <ProjectTestSequenceModule>
+        <ID>2d318e0f-fbed-47c9-82da-f46bd58622ff</ID>
+        <ProjectID>b024013d-2c79-428f-b25d-37a7292375ab</ProjectID>
+        <ModuleID>20a2e9c6-5233-465b-b642-96129d765917</ModuleID>
+        <IncludeInSequence>False</IncludeInSequence>
+        <IsDeleted>False</IsDeleted>
+        <Type>1</Type>
+        <TimeStamp>2022-10-11 11:55:30.000</TimeStamp>
+        <ModuleGroupOrder>11</ModuleGroupOrder>
+        <ModuleOrder>5</ModuleOrder>
+      </ProjectTestSequenceModule>
+      <ProjectTestSequenceModule>
+        <ID>28204ab9-cbf5-4a55-9b6b-1009a31492e6</ID>
+        <ProjectID>b024013d-2c79-428f-b25d-37a7292375ab</ProjectID>
+        <ModuleID>e26157e8-6533-432a-832b-47c116e4eb34</ModuleID>
+        <IncludeInSequence>False</IncludeInSequence>
+        <IsDeleted>False</IsDeleted>
+        <Type>1</Type>
+        <TimeStamp>2022-10-11 12:14:11.000</TimeStamp>
+        <ModuleGroupOrder>11</ModuleGroupOrder>
+        <ModuleOrder>6</ModuleOrder>
+      </ProjectTestSequenceModule>
+      <ProjectTestSequenceModule>
+        <ID>638f2dfc-93c4-40ce-88f8-34d2fb710eda</ID>
+        <ProjectID>b024013d-2c79-428f-b25d-37a7292375ab</ProjectID>
+        <ModuleID>0bb8fc3f-eb90-4aa8-ac9e-cab8e1d8c5e8</ModuleID>
+        <IncludeInSequence>False</IncludeInSequence>
+        <IsDeleted>False</IsDeleted>
+        <Type>1</Type>
+        <TimeStamp>2022-10-11 12:37:04.000</TimeStamp>
+        <ModuleGroupOrder>11</ModuleGroupOrder>
+        <ModuleOrder>7</ModuleOrder>
+      </ProjectTestSequenceModule>
+      <ProjectTestSequenceModule>
+        <ID>22dd6a05-7d78-40e0-aab0-270c74ae6c81</ID>
+        <ProjectID>b024013d-2c79-428f-b25d-37a7292375ab</ProjectID>
+        <ModuleID>ab8069a5-9f8d-4eb3-b5c5-ee3b6658fd76</ModuleID>
+        <IncludeInSequence>False</IncludeInSequence>
+        <IsDeleted>False</IsDeleted>
+        <Type>1</Type>
+        <TimeStamp>2022-10-12 12:51:01.000</TimeStamp>
+        <ModuleGroupOrder>11</ModuleGroupOrder>
+        <ModuleOrder>8</ModuleOrder>
+      </ProjectTestSequenceModule>
+      <ProjectTestSequenceModule>
+        <ID>a9128403-f4ed-49fb-8338-f7e37a329d8d</ID>
+        <ProjectID>b024013d-2c79-428f-b25d-37a7292375ab</ProjectID>
+        <ModuleID>a1ea16ef-20b4-4e7b-9bed-46b1ec3edccc</ModuleID>
+        <IncludeInSequence>False</IncludeInSequence>
+        <IsDeleted>False</IsDeleted>
+        <Type>1</Type>
+        <TimeStamp>2022-10-12 14:18:24.000</TimeStamp>
+        <ModuleGroupOrder>11</ModuleGroupOrder>
+        <ModuleOrder>9</ModuleOrder>
+      </ProjectTestSequenceModule>
+      <ProjectTestSequenceModule>
+        <ID>b3cdfce2-7250-49c6-9640-985275c02e69</ID>
+        <ProjectID>b024013d-2c79-428f-b25d-37a7292375ab</ProjectID>
+        <ModuleID>9655fc6a-931d-4086-b36e-e508d40c49cc</ModuleID>
+        <IncludeInSequence>False</IncludeInSequence>
+        <IsDeleted>False</IsDeleted>
+        <Type>1</Type>
+        <TimeStamp>2022-10-13 10:10:35.000</TimeStamp>
+        <ModuleGroupOrder>11</ModuleGroupOrder>
+        <ModuleOrder>10</ModuleOrder>
+      </ProjectTestSequenceModule>
+      <ProjectTestSequenceModule>
+        <ID>d6ee982a-a98c-4270-af7b-90fec2b1a279</ID>
+        <ProjectID>b024013d-2c79-428f-b25d-37a7292375ab</ProjectID>
+        <ModuleID>7f5354c7-55b2-4fc8-b79c-493ae2b2b5ff</ModuleID>
+        <IncludeInSequence>False</IncludeInSequence>
+        <IsDeleted>False</IsDeleted>
+        <Type>1</Type>
+        <TimeStamp>2022-10-13 11:52:17.000</TimeStamp>
+        <ModuleGroupOrder>11</ModuleGroupOrder>
+        <ModuleOrder>11</ModuleOrder>
+      </ProjectTestSequenceModule>
+      <ProjectTestSequenceModule>
+        <ID>9727ff6f-4305-45cb-8da3-f4b7298fe490</ID>
+        <ProjectID>b024013d-2c79-428f-b25d-37a7292375ab</ProjectID>
+        <ModuleID>02d76c5f-0bc6-45e8-a1cf-49b3af5d3e0c</ModuleID>
+        <IncludeInSequence>False</IncludeInSequence>
+        <IsDeleted>False</IsDeleted>
+        <Type>1</Type>
+        <TimeStamp>2022-10-13 12:05:11.000</TimeStamp>
+        <ModuleGroupOrder>11</ModuleGroupOrder>
+        <ModuleOrder>12</ModuleOrder>
+      </ProjectTestSequenceModule>
+      <ProjectTestSequenceModule>
+        <ID>2f4433b2-e153-4dd1-b1dd-b6461fbc27bb</ID>
+        <ProjectID>b024013d-2c79-428f-b25d-37a7292375ab</ProjectID>
+        <ModuleID>2cb6b3c2-e2f7-4a60-a08d-b91a6f0c63f7</ModuleID>
+        <IncludeInSequence>False</IncludeInSequence>
+        <IsDeleted>False</IsDeleted>
+        <Type>1</Type>
+        <TimeStamp>2022-10-13 14:12:14.000</TimeStamp>
+        <ModuleGroupOrder>11</ModuleGroupOrder>
+        <ModuleOrder>13</ModuleOrder>
+      </ProjectTestSequenceModule>
+      <ProjectTestSequenceModule>
+        <ID>5469b70c-e6da-4f09-a3c3-2e3c9b143a24</ID>
+        <ProjectID>b024013d-2c79-428f-b25d-37a7292375ab</ProjectID>
+        <ModuleID>42001ca1-8bde-4bc2-b8f6-45473541f62f</ModuleID>
+        <IncludeInSequence>False</IncludeInSequence>
+        <IsDeleted>False</IsDeleted>
+        <Type>1</Type>
+        <TimeStamp>2022-10-13 16:26:40.000</TimeStamp>
+        <ModuleGroupOrder>11</ModuleGroupOrder>
+        <ModuleOrder>14</ModuleOrder>
+      </ProjectTestSequenceModule>
+      <ProjectTestSequenceModule>
+        <ID>4a49b71b-84bf-4154-8925-a3476fbe0965</ID>
+        <ProjectID>b024013d-2c79-428f-b25d-37a7292375ab</ProjectID>
+        <ModuleID>56996b15-e989-40dd-9679-48a2abf6d3f0</ModuleID>
+        <IncludeInSequence>False</IncludeInSequence>
+        <IsDeleted>False</IsDeleted>
+        <Type>1</Type>
+        <TimeStamp>2022-10-13 16:26:42.000</TimeStamp>
+        <ModuleGroupOrder>11</ModuleGroupOrder>
+        <ModuleOrder>15</ModuleOrder>
+      </ProjectTestSequenceModule>
+      <ProjectTestSequenceModule>
+        <ID>fb40267b-98a4-40b7-b184-5ed25b8fba79</ID>
+        <ProjectID>b024013d-2c79-428f-b25d-37a7292375ab</ProjectID>
+        <ModuleID>ef000c5c-2aaf-4189-af48-d882507b2638</ModuleID>
+        <IncludeInSequence>False</IncludeInSequence>
+        <IsDeleted>False</IsDeleted>
+        <Type>1</Type>
+        <TimeStamp>2022-10-14 11:46:11.000</TimeStamp>
+        <ModuleGroupOrder>11</ModuleGroupOrder>
+        <ModuleOrder>16</ModuleOrder>
+      </ProjectTestSequenceModule>
+      <ProjectTestSequenceModule>
+        <ID>f7ac7d3b-4ef7-451d-b8d8-96fe4f7141c8</ID>
+        <ProjectID>b024013d-2c79-428f-b25d-37a7292375ab</ProjectID>
+        <ModuleID>5747d266-a837-40fa-a007-d3939579ddb6</ModuleID>
+        <IncludeInSequence>False</IncludeInSequence>
+        <IsDeleted>False</IsDeleted>
+        <Type>1</Type>
+        <TimeStamp>2022-12-01 15:00:37.000</TimeStamp>
+        <ModuleGroupOrder>11</ModuleGroupOrder>
+        <ModuleOrder>17</ModuleOrder>
+      </ProjectTestSequenceModule>
+      <ProjectTestSequenceModule>
+        <ID>2175f456-0f77-43e6-aa6b-06b7c2620925</ID>
+        <ProjectID>b024013d-2c79-428f-b25d-37a7292375ab</ProjectID>
+        <ModuleID>6467ff7e-e17a-4797-b04a-fc0579756315</ModuleID>
+        <IncludeInSequence>False</IncludeInSequence>
+        <IsDeleted>False</IsDeleted>
+        <Type>1</Type>
+        <TimeStamp>2022-12-08 16:49:18.000</TimeStamp>
+        <ModuleGroupOrder>11</ModuleGroupOrder>
+        <ModuleOrder>18</ModuleOrder>
+      </ProjectTestSequenceModule>
+      <ProjectTestSequenceModule>
+        <ID>6d267051-c76f-4914-9c69-e82d9bb9ed93</ID>
+        <ProjectID>b024013d-2c79-428f-b25d-37a7292375ab</ProjectID>
+        <ModuleID>7a2183fc-9419-46f0-baa5-859d9b4c6c70</ModuleID>
+        <IncludeInSequence>True</IncludeInSequence>
+        <IsDeleted>False</IsDeleted>
+        <Type>1</Type>
+        <TimeStamp>2022-12-12 11:57:18.000</TimeStamp>
+        <ModuleGroupOrder>11</ModuleGroupOrder>
+        <ModuleOrder>19</ModuleOrder>
+      </ProjectTestSequenceModule>
+      <ProjectTestSequenceModule>
+        <ID>7a671acd-d4a0-44c7-b2d1-14c55f5e1036</ID>
+        <ProjectID>b024013d-2c79-428f-b25d-37a7292375ab</ProjectID>
+        <ModuleID>1f6b46de-d5c6-4111-a9c9-08c0000cdc74</ModuleID>
+        <IncludeInSequence>False</IncludeInSequence>
+        <IsDeleted>False</IsDeleted>
+        <Type>1</Type>
+        <TimeStamp>2022-10-11 11:03:14.000</TimeStamp>
+        <ModuleGroupOrder>11</ModuleGroupOrder>
+        <ModuleOrder>4</ModuleOrder>
+      </ProjectTestSequenceModule>
+    </ProjectTestSequenceModule>
+  </ProjectTestSequenceModule>
+</Project>
